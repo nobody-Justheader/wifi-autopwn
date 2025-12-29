@@ -214,7 +214,7 @@ This tool implements techniques from peer-reviewed security research and officia
 
 ## Legal & Ethical Notice
 
-**CRITICAL WARNING** ⚠️
+**CRITICAL WARNING** 
 
 This tool is designed for **AUTHORIZED SECURITY TESTING ONLY**.
 
