@@ -6,13 +6,13 @@
 [![WiFi Standards](https://img.shields.io/badge/WiFi-1%20to%207-green.svg)](https://www.wi-fi.org/)
 [![Language](https://img.shields.io/badge/language-Bash-89e051.svg)](https://www.gnu.org/software/bash/)
 
-> **🔓 Advanced Multi-Generation WiFi Penetration Testing Framework**
+> **Advanced Multi-Generation WiFi Penetration Testing Framework**
 
 A comprehensive, modular WiFi security testing tool implementing traditional and cutting-edge attack techniques based on the latest security research and IEEE 802.11 specifications. Features complete coverage from legacy WiFi 1 (802.11b) to modern WiFi 7 (802.11be).
 
-## 🎯 Key Features
+## Key Features
 
-### 📊 Quick Stats
+### Quick Stats
 
 | Category | Details |
 |----------|---------|
@@ -214,7 +214,7 @@ This tool implements techniques from peer-reviewed security research and officia
 
 ## Legal & Ethical Notice
 
-⚠️ **CRITICAL WARNING** ⚠️
+**CRITICAL WARNING** ⚠️
 
 This tool is designed for **AUTHORIZED SECURITY TESTING ONLY**.
 
@@ -230,17 +230,17 @@ This tool is designed for **AUTHORIZED SECURITY TESTING ONLY**.
 
 ### Acceptable Use Cases
 
-✅ Testing your own networks  
-✅ Authorized penetration testing with written consent  
-✅ Educational purposes in controlled lab environments  
-✅ Security research with proper authorization
+Testing your own networks  
+Authorized penetration testing with written consent  
+Educational purposes in controlled lab environments  
+Security research with proper authorization
 
 ### Unacceptable Use
 
-❌ Any unauthorized network access  
-❌ Testing without explicit permission  
-❌ Malicious use of captured credentials  
-❌ Disrupting network services
+Any unauthorized network access  
+Testing without explicit permission  
+Malicious use of captured credentials  
+Disrupting network services
 
 **By using this tool, you agree to take full responsibility for compliance with all applicable laws and regulations.**
 
