@@ -1,0 +1,53 @@
+# Build artifacts
+build/
+bin/
+
+# Capture files
+*.cap
+*.pcap
+*.pcapng
+*.csv
+*.kismet
+*.netxml
+
+# Hash files
+*.hc22000
+*.hccapx
+*.16800
+
+# Session files
+wifi-captures/
+*.session
+session_*.json
+
+# Logs
+*.log
+*.txt
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Credentials (safety)
+*password*
+*creds*
+cracked_*.txt
+
+# Legacy
+wifi-autopwn.sh.bak
