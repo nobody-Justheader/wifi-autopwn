@@ -1,10 +1,28 @@
-# WiFi Auto-PWN v3.0
+# WiFi Auto-PWN v1.0
 
-> **Advanced WiFi Penetration Testing Framework with Novel Attack Vectors**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/nobody-Justheader/wifi-autopwn)
+[![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](https://www.linux.org/)
+[![WiFi Standards](https://img.shields.io/badge/WiFi-1%20to%207-green.svg)](https://www.wi-fi.org/)
+[![Language](https://img.shields.io/badge/language-Bash-89e051.svg)](https://www.gnu.org/software/bash/)
 
-A comprehensive, modular WiFi security testing tool implementing traditional and cutting-edge attack techniques based on the latest security research and IEEE 802.11 specifications.
+> **🔓 Advanced Multi-Generation WiFi Penetration Testing Framework**
 
-## Features
+A comprehensive, modular WiFi security testing tool implementing traditional and cutting-edge attack techniques based on the latest security research and IEEE 802.11 specifications. Features complete coverage from legacy WiFi 1 (802.11b) to modern WiFi 7 (802.11be).
+
+## 🎯 Key Features
+
+### 📊 Quick Stats
+
+| Category | Details |
+|----------|---------|
+| **WiFi Generations** | WiFi 1-7 (802.11a/b/g/n/ac/ax/be) |
+| **Frequency Bands** | 2.4GHz, 5GHz, 6GHz |
+| **Attack Vectors** | 12+ implemented techniques |
+| **Security Protocols** | WEP, WPA, WPA2, WPA3 |
+| **Modules** | 20 modular components |
+| **Executable Size** | 84KB single file |
+| **Research References** | 30+ CVEs, papers, tools |
 
 ### Core Attack Modules
 
