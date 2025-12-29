@@ -57,7 +57,7 @@ FEATURE_EVIL_TWIN=false
 FEATURE_WEP=false
 
 # Version
-VERSION="3.0"
+VERSION="1.0"
 BUILD_DATE="$(date +%Y%m%d)"
 
 # Auto-setup function
