@@ -259,7 +259,7 @@ Educational and research use only. See LICENSE file.
 
 ## Version
 
-**v3.0** - Comprehensive WiFi Penetration Testing Framework  
+**v1.0** - Comprehensive WiFi Penetration Testing Framework  
 Build Date: 2025-12-29  
 Modules: 20 | Lines: 4625+ | Size: 74KB
 
